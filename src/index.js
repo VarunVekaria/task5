@@ -9,7 +9,7 @@ ReactDOM.render(
   <SearchAppbar />
   <BasicCard />
   <h2 style={{margin:"15px", /*font-family:"poppins"*/ }}>Popular recipes</h2>
-  <Recipes />
+  
   <App />
   </div>,
   document.getElementById('root')
